@@ -51,7 +51,7 @@ If you do not know what to use for your full server path, contact your Host or s
 
 ## reCAPTCHA v3 Settings
 
-If you wish to use Google reCAPTCH v3 as a replacement you will need to ensure that the site is set up with Google to gain the required site key and secret. See https://www.google.com/recaptcha/admin/create
+If you wish to use Google reCAPTCHA v3 as a replacement you will need to ensure that the site is set up with Google to gain the required site key and secret. See https://www.google.com/recaptcha/admin/create
 
 ### Use reCAPTCHA v3?
 
